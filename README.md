@@ -6,7 +6,8 @@
 ### <div align="center">Hello World! I'm Sol, full-stack developer 👨‍💻 from Argentina 🚀</div>  
   
 - ☀ About me
-  I'm a fullstack web developer.
+
+  I'm a fullstack web developer. </br>
   Curious and passionate. The tech world and the infinite creative possibilities it offers deeply caught my interest. This attitude led me to decide to train as a    full-stack developer, where I found a space that enhances my desire to challenge myself. For me, challenges are an opportunity to learn and evolve, and that's why I face them with enthusiasm, responsibility, and commitment.
 
 - 🔭 My last work was [Wine's club App](https://pf-street-art-wine-club-front-en-git-bb3b74-matias-rodriguez-ux.vercel.app/)  
@@ -63,7 +64,7 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 
 
