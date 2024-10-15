@@ -10,7 +10,7 @@
   I'm a fullstack web developer. </br>
   Curious and passionate. The tech world and the infinite creative possibilities it offers deeply caught my interest. This attitude led me to decide to train as a    full-stack developer, where I found a space that enhances my desire to challenge myself. For me, challenges are an opportunity to learn and evolve, and that's why I face them with enthusiasm, responsibility, and commitment.
 
-- 🌱 I'm currently working in [Nextdet LL.C](https://www.nextdet.com/)  
+- 🌱 I'm currently working in [ZStudio]([https://www.nextdet.com/](https://zstudio.io/))  
 
 - 🔭 My last work was [Wine's club App](https://pf-street-art-wine-club-front-en-git-bb3b74-matias-rodriguez-ux.vercel.app/)  
   
